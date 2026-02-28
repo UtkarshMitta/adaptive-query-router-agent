@@ -1,0 +1,8 @@
+turn,model_used,tokens_used,input_complexity,cumulative_cost
+1,small_mistral,150,low,0.00015
+2,small_mistral,150,low,0.00015
+2,small_mistral,150,low,0.00015
+2,small_mistral,150,low,0.00015
+1,small_mistral,120,low,0.00012
+2,medium_mistral,350,medium,0.00062
+3,large_mistral,850,high,0.00212
