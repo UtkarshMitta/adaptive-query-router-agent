@@ -1,0 +1,13 @@
+# Environments
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Local Test Scripts
+test_hf.py
+clone_model.py
+
+# Model Weights
+mistral-query-router/
